@@ -1,0 +1,8 @@
+# Ruwe data: wordt gedownload met download_data.py (enkele GB, te groot voor GitHub)
+data/
+*.zip
+
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+~$*
